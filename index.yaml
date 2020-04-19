@@ -3,7 +3,7 @@ entries:
   consul:
   - apiVersion: v1
     appVersion: 1.7.2
-    created: "2020-04-19T14:14:22.250347-07:00"
+    created: "2020-04-19T15:54:18.532578-07:00"
     description: Highly available and distributed service discovery and key-value
       store designed with support for the modern data center to make distributed systems
       and configuration easy.
@@ -18,16 +18,16 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-consul
     urls:
-    - https://github.com/muqtadir/helm-charts/consul-7.0.10.tgz
+    - https://muqtadir.github.io/helm-charts/consul-7.0.10.tgz
     version: 7.0.10
   helm-chart-test:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-19T14:14:22.250641-07:00"
+    created: "2020-04-19T15:54:18.533183-07:00"
     description: A Helm chart for Kubernetes
     digest: ac682e2bc3c2f835767ed0eb96df2ce1d53aacd3ce43b02b8e478fe7ff08ef1a
     name: helm-chart-test
     urls:
-    - https://github.com/muqtadir/helm-charts/helm-chart-test-0.1.0.tgz
+    - https://muqtadir.github.io/helm-charts/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-19T14:14:22.249343-07:00"
+generated: "2020-04-19T15:54:18.530637-07:00"
